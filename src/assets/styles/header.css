@@ -1,0 +1,23 @@
+.header {
+	background-color: #b6b6b6;
+}
+
+.header__container {
+	display: flex;
+	flex-direction: row;
+	gap: 30px;
+	align-items: center;
+	padding: 10px 0;
+}
+
+.header__logo {
+	display: block;
+	width: 40px;
+	height: 40px;
+	object-fit: cover;
+}
+
+.header__title {
+	font-size: 24px;
+	font-weight: 700;
+}

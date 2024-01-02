@@ -1,0 +1,16 @@
+.main {
+	background-color: #e4e4e4;
+}
+
+.main__container {
+	padding: 15px;
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+}
+
+.main__counter {
+	font-size: 33px;
+	font-weight: 700;
+	color: salmon;
+}
